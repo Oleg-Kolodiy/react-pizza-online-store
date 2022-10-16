@@ -1,4 +1,4 @@
-Deployed: [react-pizza-online-store](https://app-pizza-online-store.herokuapp.com/)
+Deployed: [react-pizza-online-store](https://app-pizza-react-online-store.herokuapp.com/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
